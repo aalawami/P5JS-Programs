@@ -1,7 +1,7 @@
 # P5JS-Programs
 There are 4 programs here
 
-Below are 4 links that will take you to the editor view of the P5JS programs
+Below are 4 links that will take you to the editor view of the P5JS programs (in case some machines are not able to run the file version)
 
 
 https://editor.p5js.org/Alinin/sketches/hH6qpk2ml
